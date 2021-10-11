@@ -1,0 +1,14 @@
+/*Style of the header row*/
+.header-row {
+  background-color: rgb(221, 221, 221);
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.header-row:first-of-type {
+  border-bottom: 5px solid rgb(0, 0, 0);
+}
+
+.arrow-icon {
+  padding-left: 8px;
+}

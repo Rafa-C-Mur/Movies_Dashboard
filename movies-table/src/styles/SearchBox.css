@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=Montserrat&family=Nunito:wght@300;400&display=swap");
+
+.search-input {
+  background-color: #ffffff;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 7px 0 0 7px;
+  cursor: text;
+}
+
+.search-button {
+  background-color: #ffffff;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 10px;
+  border-radius: 0 7px 7px 0;
+  cursor: pointer;
+}
